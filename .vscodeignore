@@ -1,0 +1,23 @@
+# 源代码文件（编译后的 out 目录已包含）
+src/**
+tsconfig.json
+.eslintrc.json
+
+# 测试文件
+test/**
+.vscode-test/**
+
+# 构建和开发文件
+node_modules/**
+.vscode/**
+.gitignore
+
+# 开发文档和临时文件
+PUBLISHING.md
+*.vsix
+
+# 日志文件
+*.log
+
+# 编译检查
+**/*.map
