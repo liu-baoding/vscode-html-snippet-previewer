@@ -3,19 +3,19 @@
   "displayName": "HTML Snippet Previewer",
   "description": "Preview HTML code snippets from any file type in real-time",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "publisher": "BaodingLiu",
   "author": {
-    "name": "Your Name"
+    "name": "BaodingLiu"
   },
   "license": "MIT",
   "icon": "resources/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/html-snippet-previewer.git"
+    "url": "https://github.com/liu-baoding/vscode-html-snippet-previewer.git"
   },
-  "homepage": "https://github.com/your-username/html-snippet-previewer#readme",
+  "homepage": "https://github.com/liu-baoding/vscode-html-snippet-previewer#readme",
   "bugs": {
-    "url": "https://github.com/your-username/html-snippet-previewer/issues"
+    "url": "https://github.com/liu-baoding/vscode-html-snippet-previewer/issues"
   },
   "keywords": [
     "html",
